@@ -1,0 +1,15 @@
+{
+    "name": "harborsoft/pageconteiner",
+    "description": "Page of a container",
+    "type": "harbor-container",
+    "license": "MIT",
+    "require": {
+    },
+    "extra": {
+        "apiato": {
+            "container": {
+                "name": "PageConteiner"
+            }
+        }
+    }
+}
